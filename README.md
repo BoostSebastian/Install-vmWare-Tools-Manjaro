@@ -7,7 +7,7 @@ Run this first
 
 Then run:
 
-`chmod +x script-name-here.sh`
+`chmod +x installvmware.sh`
 
 To run your script :
 
