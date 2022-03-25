@@ -9,7 +9,11 @@ Then run:
 
 To run your script :
 `./installvmware.sh`
+
 Another option is as follows to execute shell script:
+
 `sh installvmware.sh`
+
 OR
+
 `bash installvmware.sh`
